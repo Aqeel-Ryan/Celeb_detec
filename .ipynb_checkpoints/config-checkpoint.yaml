@@ -1,0 +1,11 @@
+path: '/content/gdrive/My Drive/dataset'
+train: train/images
+val: train/images
+
+#classes
+names:
+ 0: drake
+ 1: kanye
+ 2: frank ocean
+
+    

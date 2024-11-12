@@ -1,0 +1,11 @@
+path: '/content/gdrive/My Drive/images'
+train: train/images
+val: train/images
+
+#classes
+names:
+ 0: messi
+ 1: ronaldo
+
+
+    
